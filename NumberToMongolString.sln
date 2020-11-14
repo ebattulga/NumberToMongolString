@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToMongolString", "NumberToMongolString\NumberToMongolString.csproj", "{EF38C1F8-6C93-4C33-9783-FCCDE15FE7C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToMongolString.Test", "NumberToMongolString.Test\NumberToMongolString.Test.csproj", "{991383AD-B27D-4369-891B-5098C03E491F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF38C1F8-6C93-4C33-9783-FCCDE15FE7C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF38C1F8-6C93-4C33-9783-FCCDE15FE7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF38C1F8-6C93-4C33-9783-FCCDE15FE7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF38C1F8-6C93-4C33-9783-FCCDE15FE7C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991383AD-B27D-4369-891B-5098C03E491F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991383AD-B27D-4369-891B-5098C03E491F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991383AD-B27D-4369-891B-5098C03E491F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991383AD-B27D-4369-891B-5098C03E491F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CF10A27-86F1-4767-AB9C-1A10FD6991AA}
+	EndGlobalSection
+EndGlobal
